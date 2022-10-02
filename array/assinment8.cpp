@@ -9,4 +9,5 @@ int main()
         sum+=var[i];
     }
     cout<<sum<<endl;
+    return 0;
 }
